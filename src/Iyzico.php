@@ -11,8 +11,8 @@ class Iyzico{
 
     public function __construct(){
 
-        $this->api_id = Config::get('iyzico::api_id');
-        $this->secret = Config::get('iyzico::secret');
+        $this->api_id = Config::get('iyzico.api_id');
+        $this->secret = Config::get('iyzico.secret');
     }
 
     public function getForm($datas){
