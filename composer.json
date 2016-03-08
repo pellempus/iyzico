@@ -1,0 +1,25 @@
+{
+    "name": "pellempus/iyzico",
+    "description": "Iyzico integration for Laravel",
+    "keywords": [
+    "iyzico",
+    "laravel"
+    ],
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Gökhan Demirel",
+            "email": "gnoseise@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.5.9",
+      "illuminate/http": "5.1.*"
+    },
+    "autoload": {
+    "psr-0": {
+      "Pellempus\\Iyzico\\": "src/"
+    }
+    }
+}
