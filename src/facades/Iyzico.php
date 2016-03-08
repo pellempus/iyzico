@@ -1,4 +1,4 @@
-<?php namespace Hasanilingi\Iyzico\Facades;
+<?php namespace Pellempus\Iyzico\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
