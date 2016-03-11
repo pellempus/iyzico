@@ -1,5 +1,5 @@
 #### Forked From https://github.com/hasanilingi/iyzico
-This package is fixed version.
+This package is fixed version for old api. Now it's useless since Iyzico has a new api!
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
